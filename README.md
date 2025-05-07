@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Time 👋</h1>
 
 <p align="center">
-  Full-Stack Developer • UI Designer • Founder of Xynex
+  Front-End Developer • UI Designer • Founder of Xynex
 </p>
 
 ---
