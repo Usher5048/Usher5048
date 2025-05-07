@@ -22,7 +22,7 @@ Check out [Xynex](https://xynex.xyz) or some of my other repo's to get an idea o
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=usher5048&show_icons=true&theme=radical" />
 </p>
 
 ---
