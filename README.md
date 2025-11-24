@@ -1,36 +1,39 @@
-<h1 align="center">Hey, I'm Time 👋</h1>
+<h1 align="center">Time</h1>
 
 <p align="center">
-  Front-End Developer • UI Designer • Founder of Xynex
+  Developer • UI/UX • Currently breaking & rebuilding YouTube TV for desktop
 </p>
 
 ---
 
 ### About Me
-- Currently building: [xynex.xyz](https://xynex.xyz)
-- I love sleek, minimal UI with sharp UX
-- Tech I work with daily:  
-  `HTML` • `CSS` • `JavaScript` • `Node.JS` • `Visual Studio Code` • `Linux & Windows` • `Git`
+- I like building clean, minimal interfaces with a clean UX.
+- I’m currently fixing and modernizing the abandoned YouTube TV Electron client.
+- I jump between front-end work and random experiments whenever something interests me.
+
+---
+
+### What I Use
+`HTML` • `CSS` • `JavaScript` • `Node.js`  
+`Electron` • `VS Code` • `Windows` / `Linux` • `Git`
 
 ---
 
 ### Projects
-Check out [Xynex](https://xynex.xyz) or some of my other repo's to get an idea of what I like to build!
+- **YouTube TV (Unofficial Fork)** — Reviving and fixing the abandoned desktop client.
+
+Other repos are experiments, half-finished ideas, or random shit.
 
 ---
 
 ### Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=usher5048&show_icons=true&theme=radical" />
 </p>
 
 ---
 
-### Reach Me
-
-- Discord, omega.omnia
-- [GitHub](https://github.com/Usher5048)
-- [Email](mailto:tempus5048@gmail.com)
-
----
+### Contact
+- Discord: **omega.omnia**
+- GitHub: [Usher5048](https://github.com/Usher5048)
+- Email: [tempus5048@gmail.com](mailto:tempus5048@gmail.com)
