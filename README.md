@@ -20,7 +20,7 @@
 ---
 
 ### Projects
-- **YouTube TV (Unofficial Fork)** — Reviving and fixing the abandoned desktop client.
+- **YouTube TV (Unofficial Fork)** Reviving and fixing the abandoned desktop client.
 
 Other repos are experiments, half-finished ideas, or random shit.
 
